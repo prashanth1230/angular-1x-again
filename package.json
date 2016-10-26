@@ -1,0 +1,27 @@
+{
+  "name": "angular-1x-again",
+  "version": "1.0.0",
+  "description": "Learning Angularjs 1.x again",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanth1230/angular-1x-again.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular1.x"
+  ],
+  "author": "Prashanth Udupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashanth1230/angular-1x-again/issues"
+  },
+  "homepage": "https://github.com/prashanth1230/angular-1x-again#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
